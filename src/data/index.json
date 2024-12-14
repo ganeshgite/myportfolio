@@ -1,0 +1,82 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Skilled in creating responsive, interactive, and user-friendly interfaces using modern frameworks and libraries like React. Focused on delivering seamless user experiences."
+      
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Expertise in developing robust and scalable server-side logic using Node.js, Express, and database management with MongoDB. Ensures security and high performance."
+      
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Full-Stack Development ",
+      "description": "Experienced in building end-to-end web applications by combining front-end and back-end technologies. Proficient in React, Node.js, Express, and MongoDB, I specialize in creating responsive user interfaces."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Specialized in building dynamic and visually stunning websites using Webflow. Adept at transforming ideas into functional web designs with responsive layouts."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/user.jpg",
+      "description": "Ganesh demonstrated outstanding professionalism and dedication while working on our website redesign. His ability to combine creativity with technical skills is unmatched. The end product was visually stunning and technically sound."
+      ,
+      "author_name": "Dr sumati Sidhharth",
+      "author_designation": "Diat"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/user.jpg",
+      "description": "Ganesh has been an absolute pleasure to work with. His expertise in full-stack development helped us build a robust and scalable web application. He was proactive in suggesting solutions and delivered the project ahead of schedule. Highly recommend his services!"
+      ,
+      "author_name": "Dr. Amrita Nighojkat",
+      "author_designation": "Diat"
+
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/user.jpg",
+      "description": "We hired Ganesh to   our e-commerce platform, and the results exceeded our expectations. The UI/UX was clean and intuitive, and the backend was optimized for performance. He is truly a skilled developer and a great collaborator.",
+      "author_name": "Surendra Ghorpade ",
+      "author_designation": "Diat"
+    }
+  ]
+}
