@@ -22,7 +22,7 @@ Let’s create something extraordinary together. Reach out, and let’s discuss 
 <li>⚙️ Proven ability to develop scalable and efficient backend systems.
 </li>
 <li>💡 Collaborative and dedicated to delivering projects on time and to the highest standard.
-</li>
+</li>  
 </ul>
           </p>
             <div>
